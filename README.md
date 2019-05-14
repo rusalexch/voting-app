@@ -4,8 +4,9 @@ Create a React application that implements voting for two candidates (of your ch
 ## React
 **Don't** use hooks 
 
-## Redux
-As a centralized state repository, use your redux implementation, as well as some react-redux elements to connect to React Components.
+## Not Redux
+As a centralized state repository, use **your** redux implementation, as well as some react-redux elements to connect to React Components.
+> Please, don't use ```redux```
 
 ## Charts
 Please use [recharts library](http://recharts.org/en-US/api/PieChart)
